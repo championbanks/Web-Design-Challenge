@@ -1,0 +1,51 @@
+<html>
+		<head>
+		<title>Latitude - Latitude Analysis Dashboard with Attitude</title>
+		</head> 
+		<body> 
+				<h1>Web Visualization Dashboard </h1>
+				<p>This websit enables the visualization the weather of 500+ cities across the world of varying distance from the equator. 
+				It is utilizing a [simple Python library](https://pypi.python.org/pypi/citipy), 
+				the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative
+				model of weather across world cities.
+
+                The objective is to build a series of scatter plots to showcase the following relationships:
+
+				* Temperature (F) vs. Latitude
+				* Humidity (%) vs. Latitude
+				* Cloudiness (%) vs. Latitude
+				* Wind Speed (mph) vs. Latitude</p>
+				<p>This page was last updated on 9/7/2019</p>
+				
+				
+				<img src="IMG_E2540.jpg" alt= "Edwin's Pic" title = "EDWIN PIC" />
+				
+				<p>Over the years, Edwin spent most of his time studying in many countries. He was educated in both English and French countries</p>
+				<!--Unordered list-->
+				<ul>
+				<li>Instagram - 
+					<a href = "instagram.com/kizim II_Edwin">
+					 @ Edwin Kizim II
+					</a>
+				</li>
+				<table border =5>
+				<tr>
+					<td> Some facts about Edwin</td>
+				</tr>
+				<tr>
+					<td> Paris</td>
+				</tr>
+				<tr>
+					<td> Blue </td>
+				</tr>
+				<tr>
+					<td> Currently attending UNCC BootCamp in Charlotte </td>
+				</tr>
+				
+				<li>Queen City Kizomba - 
+					<a href = "http://queencitykizomba.com/">
+					Queen City Kizomba Festival
+					</a>
+				</li>
+		</body> 
+<html>

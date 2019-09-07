@@ -1,0 +1,45 @@
+<html>
+		<head>
+		<title>Latitude vs WindSpeed</title>
+		</head> 
+		
+		<body> 
+				<nav>
+					<ul>
+						<li>
+					  
+							<a href = "Web Visualization Dashboard Home.html">
+								Home
+							</a>
+						</li>
+					</ul>
+				<h1>Latitude vs WindSpeed</h1>
+				<p>This plot chart decribes the Latitude of over 500 ramdom cities.</p> 
+				<p>Most cities wind speed are concentrated between 0-15 MPH</p>
+				<figure>
+				<img src="Lat_vs_WindSpeed.png" />
+					<figcaption>
+					Latitude WindSpeed of over 500 ramdom cities
+					</figcaption>
+				</figure>
+				<figure>
+				<img src="Lat_vs_Temp.png" />
+					<figcaption>
+					Latitude Temperture of over 500 ramdom cities
+					</figcaption>
+				</figure>
+				<figure>
+				<img src="Lat_vs_Humidity.png" />
+					<figcaption>
+					Latitude Humidity of over 500 ramdom cities
+					</figcaption>
+				</figure>
+				<figure>
+				<img src="Lat_vs_Cloudiness.png" />
+					<figcaption>
+					Latitude Cloudiness of over 500 ramdom cities
+					</figcaption>
+				</figure>
+				
+		</body> 
+<html>
